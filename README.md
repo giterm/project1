@@ -1,2 +1,4 @@
 # project1
-this is my first project!
+mow i am on the read-me brach!!
+and lets check pull request
+
